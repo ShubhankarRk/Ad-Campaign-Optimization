@@ -3,7 +3,8 @@
 Report: A/B Testing of Average Bidding vs. Maximum Bidding Models
  
 
-Executive Summary
+Executive Summary:
+
 This report analyzes the performance of Average Bidding and Maximum Bidding models through an A/B test conducted over a month. The analysis evaluates key metrics such as Click-Through Rate (CTR), Conversion Rate (CR), Cost Per Click (CPC), and Cost Per Acquisition (CPA). Using the Mann-Whitney U Test, the study determines statistically significant differences between the two bidding strategies, providing actionable insights for optimizing future campaigns.
  
 Key Questions
